@@ -1,0 +1,1 @@
+This repository contains a collection of my personal, academic, and experimental projects. Each project focuses on different concepts, technologies, and problem-solving approaches that I have explored over time.
